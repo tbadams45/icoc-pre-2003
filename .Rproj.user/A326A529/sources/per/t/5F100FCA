@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538960389718.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5F100FCA",
+    "lastKnownWriteTime" : 7813590796663464571,
+    "last_content_update" : 1538960389718,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "91616E0",
+        "caption" : "calc_statistics",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=calc_statistics&cache_key=91616E0",
+        "displayedObservations" : 25,
+        "environment" : "",
+        "object" : "calc_statistics",
+        "preview" : 0,
+        "totalObservations" : 25,
+        "variables" : 16
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

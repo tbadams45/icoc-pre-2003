@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537661799488.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1072757003",
+    "id" : "28245F4D",
+    "lastKnownWriteTime" : 1566677126,
+    "last_content_update" : 1566677126991,
+    "path" : "~/gits/icoc-pre-2003/analysis.R",
+    "project_path" : "analysis.R",
+    "properties" : {
+        "cursorPosition" : "95,46",
+        "scrollLine" : "88",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
